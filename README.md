@@ -58,7 +58,7 @@ Click "Flash Latest Release" and follow the SD Card Setup Wizard.
 Option 2: Build from Source (PlatformIO)
 Bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/bruce-2.0-ultra.git](https://github.com/YOUR_USERNAME/bruce-2.0-ultra.git)
+git clone [https://github.com/axelmilchmann-cloud/custom-bruce-firmware.git](https://github.com/YOUR_USERNAME/bruce-2.0-ultra.git)
 cd bruce-2.0-ultra
 
 # Build firmware for Cardputer
