@@ -3,6 +3,8 @@
 ![Bruce 2.0 Banner](https://img.shields.io/badge/Platform-ESP32--S3-orange?style=for-the-badge&logo=espressif)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-PlatformIO-green?style=for-the-badge&logo=platformi)
+
+
 **Bruce 2.0 Ultra** is a massive, feature-packed firmware evolution for the **M5Stack Cardputer ADV** (ESP32-S3). Designed for portable pentesting, RF analysis, hardware debugging, and seamless offline mesh communication.
 
 Together with **Bruce 2.0 Studio** (Desktop Companion App), flashing, managing, and remotely controlling your Cardputer has never been easier.
