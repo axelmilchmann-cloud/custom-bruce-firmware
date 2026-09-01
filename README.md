@@ -46,23 +46,7 @@ The repository includes cross-platform desktop companion software:
 * 🎨 **Visual Theme Editor:** Customize UI colors (`0x4FE0` Dino Green / `0xFFE0` Schnabeltier Yellow) via a GUI color picker.
 * 📁 **PCAP & Log Extractor:** Easily pull Wi-Fi packet dumps and sub-GHz logs directly to your desktop.
 
----
 
-## 🎨 Theme Configuration (`theme.json`)
-
-To apply the custom Dino / Schnabeltier look, place your `theme.json` on the root of your SD card:
-
-```json
-{
-  "priColor": "0x4FE0",
-  "secColor": "0xFFE0",
-  "bgColor": "0x0000",
-  "bgLvl": 255,
-  "border": 1,
-  "label": 1,
-  "ledColor": "00FF7F",
-  "ledAnim": 1
-}
 🛠️ Build & Installation
 Option 1: Via Bruce Studio (Recommended)
 Download Bruce 2.0 Studio from the Releases page.
